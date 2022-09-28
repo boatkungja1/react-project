@@ -1,0 +1,11 @@
+.avatar{
+    border: solid 30px goldenrod;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 8px;
+    display: inline-block;
+}
+
+.name{
+    text-align: center;
+}
